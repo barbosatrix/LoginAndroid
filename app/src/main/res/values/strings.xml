@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="contrasena">CONTRASEÑA</string>
+    <string name="usuario">USUARIO</string>
+</resources>
